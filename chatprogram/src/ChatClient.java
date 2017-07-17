@@ -1,7 +1,7 @@
 //Client-side program
 
 //run as:
-// java ChatClientFile -l <listening port number> -p <connect server port>
+// java ChatClientFile -l <listening port number>
 
 
 import java.io.BufferedReader;
